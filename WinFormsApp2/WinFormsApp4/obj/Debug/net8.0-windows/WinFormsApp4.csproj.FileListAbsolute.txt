@@ -1,0 +1,17 @@
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.exe
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.deps.json
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.runtimeconfig.json
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.dll
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.pdb
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.Form1.resources
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.Properties.Resources.resources
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfo.cs
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.dll
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\obj\Debug\net8.0-windows\refint\WinFormsApp4.dll
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.pdb
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.genruntimeconfig.cache
+H:\РПМ\Лабы\Лаб4\WinFormsApp2\WinFormsApp4\obj\Debug\net8.0-windows\ref\WinFormsApp4.dll
